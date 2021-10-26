@@ -39,7 +39,7 @@
     "conventional-changelog-atom": "^2.0.8",
     "conventional-changelog-codemirror": "^2.0.8",
     "conventional-changelog-conventionalcommits": "^4.5.0",
-    "conventional-changelog-core": "^4.2.1",
+    "conventional-changelog-core": "https://xunn.at/conventional-changelog-core",
     "conventional-changelog-ember": "^2.0.9",
     "conventional-changelog-eslint": "^3.0.9",
     "conventional-changelog-express": "^2.0.6",
